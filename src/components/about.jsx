@@ -1,5 +1,5 @@
 import React from "react";
-
+import {AboutAnimation } from './animation/about'
 export const About = (props) => {
   return (
     <div id="about">
@@ -7,7 +7,8 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            {/*<img src="img/about.jpg" className="img-responsive" alt="" />{" "}*/}
+            <AboutAnimation />
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
