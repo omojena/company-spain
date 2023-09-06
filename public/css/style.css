@@ -317,6 +317,9 @@ header .intro-text {
 #about-svg svg {
   height: 53% !important;
 }
+#feature-svg {
+  height: 30% !important;
+}
 /* Services Section */
 #services {
   padding: 100px 0;
