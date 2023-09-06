@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Portafolio de proyectos</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            En [nombre de tu empresa], nos enorgullece presentarles una selección de nuestras creaciones tecnológicas más destacadas. A lo largo de nuestra trayectoria, hemos trabajado arduamente para satisfacer las necesidades y superar las expectativas de nuestros clientes en el mundo digital. Estos son solo algunos ejemplos de nuestra experiencia y compromiso en el campo de la informática
           </p>
         </div>
         <div className="row">

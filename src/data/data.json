@@ -1,11 +1,32 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Conecta con el éxito: Desarrollo de software a medida para tu empresa.",
+    "paragraph": "Soluciones creativas para tus desafíos digitales. Transformando ideas en soluciones digitales.",
+    "bottom": "Comienza un proyecto con nosotros"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En [Nombre de la empresa], nos apasiona el mundo de la tecnología y estamos comprometidos en ofrecer soluciones informáticas innovadoras y de calidad a nuestros clientes.\n\nDesde nuestros inicios, nos hemos destacado por nuestro enfoque centrado en el cliente, brindando un servicio personalizado y adaptado a las necesidades de cada uno. Nuestro equipo de expertos en informática está en constante actualización para estar al tanto de las últimas tendencias y avances del sector. A través de nuestro conocimiento y experiencia, buscamos proporcionar soluciones eficientes que impulsen el crecimiento y el éxito de nuestros clientes.\n\nNos enorgullece ofrecer una amplia gama de servicios, desde el desarrollo y diseño de aplicaciones y páginas web, hasta el soporte técnico especializado y la consultoría en tecnología. Trabajamos con empresas de diferentes tamaños y sectores, adaptándonos a sus necesidades y ofreciendo soluciones a medida que impulsan su productividad y eficiencia.\n\nNuestra misión es simplificar los desafíos tecnológicos a los que se enfrentan las empresas, haciendo que la informática sea accesible y fácil de entender. Valoramos la transparencia, la integridad y la confianza en todas nuestras interacciones, y nos esforzamos por establecer relaciones duraderas con nuestros clientes.",
     "Why": [
+      {
+        "title": "Experiencia y conocimiento",
+        "description": "Contamos con un equipo altamente cualificado y con años de experiencia en el campo de la informática. Nuestros expertos están constantemente actualizados y son capaces de ofrecer soluciones tecnológicas avanzadas y eficientes."
+      },
+      {
+        "title": " Enfoque centrado en el cliente",
+        "description": "Nos preocupamos por entender las necesidades específicas de cada cliente y ofrecer soluciones personalizadas que se adapten a sus requerimientos. Valoramos la comunicación abierta y trabajamos en estrecha colaboración con nuestros clientes para garantizar su satisfacción"
+      },
+      {
+        "title": "Calidad y excelencia",
+        "description": "Nos enorgullece ofrecer un alto estándar de calidad en todos nuestros servicios. Ponemos atención en cada detalle para asegurarnos de que nuestras soluciones sean sólidas, seguras y eficientes. Nuestra búsqueda constante de la excelencia nos impulsa a superar las expectativas de nuestros clientes"
+      },
+      {
+        "title": "Soluciones integrales",
+        "description": "ofrecemos un amplio abanico de servicios informáticos que cubren todas las necesidades de nuestros clientes. Desde el desarrollo de aplicaciones y páginas web, hasta el soporte técnico y la consultoría en tecnología, nos encargamos de ofrecer soluciones integrales para impulsar su éxito empresarial"
+      },
+      {
+        "title": "Compromiso con el éxito",
+        "description": "Nuestro objetivo es ayudar a nuestros clientes a alcanzar el éxito a través de la implementación efectiva de soluciones tecnológicas. Nos comprometemos a acompañarlos a lo largo de todo el proceso, brindando un soporte continuo y asesoramiento experto para maximizar los resultados"
+      },
       "Lorem ipsum dolor",
       "Tempor incididunt",
       "Lorem ipsum dolor",
@@ -20,81 +41,81 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Titulo del Proyecto",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-desktop",
+      "name": "Desarrollo web",
+      "text": "¿Necesitas dar vida a tu presencia en línea? Ofrecemos servicios de desarrollo web personalizados y responsivos. Creamos sitios web modernos y funcionales para que tu negocio destaque en Internet."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Soluciones empresariales",
+      "text": "Diseñamos soluciones empresariales a medida que se adaptan a las necesidades específicas de tu organización. Nuestro equipo de expertos en desarrollo trabaja contigo para optimizar los procesos y potenciar la eficiencia en tu empresa."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Mantenimiento y soporte técnico",
+      "text": "¿Problemas con tu infraestructura tecnológica? Nuestro equipo se encarga del mantenimiento, monitoreo y soporte técnico para que puedas enfocarte en tu negocio principal. Resolvemos problemas rápidamente y garantizamos un funcionamiento sin interrupciones."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-flask",
+      "name": "Pruebas de software",
+      "text": "Asegura la calidad de tu software con nuestras pruebas exhaustivas. Nuestros expertos en pruebas identificarán y solucionarán cualquier error o fallo en tu aplicación, brindándote la confianza de ofrecer un producto confiable y de alto rendimiento.."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shopping-cart",
+      "name": "Comercio electrónico",
+      "text": "Potencia tus ventas en línea con una plataforma de comercio electrónico profesional y segura. Creamos tiendas en línea atractivas y fáciles de usar, integradas con los métodos de pago más populares, para que puedas expandir tu negocio y alcanzar a más clientes."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-paint-brush",
+      "name": "Diseño web",
+      "text": "Haz que tu sitio web sea visualmente impactante y atractivo con nuestro servicio de diseño web personalizado. Nuestros diseñadores talentosos crean interfaces atractivas y funcionales, asegurando una experiencia de usuario excepcional. ¡Destaca entre la multitud con un diseño único!."
     }
   ],
   "Testimonials": [
